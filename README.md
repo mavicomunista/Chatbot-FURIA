@@ -2,7 +2,7 @@
 Código com descrição do trabalho
 Documentação do Bot Telegram da FURIA
 Visão Geral
-Este projeto implementa um chatbot para Telegram em português dedicado à marca FURIA. O bot foi projetado para fornecer informações sobre produtos, prazos de entrega, agenda esportiva e escalações dos times da FURIA. Ele utiliza Python e a biblioteca python-telegram-bot para criar uma interface conversacional que atende às dúvidas dos fãs e clientes.
+Este projeto implementa um chatbot para Telegram em português dedicado à marca FURIA. O bot foi projetado para fornecer informações sobre produtos, prazos de entrega, agenda esportiva e escalações dos times da FURIA. Ele utiliza Python e a biblioteca python-telegram-bot para criar uma interface conversacional que atende às dúvidas dos fãs e clientes. as interfaces utlizadas foi o REPLIT e o METAAI, infelizmente não tenho como gravar a tela mas fiz uma gravação externa. esta anexada o arquivo 
 
 Estrutura do Projeto
 ├── main.py              # Ponto de entrada da aplicação
